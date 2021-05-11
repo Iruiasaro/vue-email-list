@@ -1,0 +1,26 @@
+.email_wrapper {
+    color: seagreen;
+    text-align: center;
+    border: 4px solid rgb(20, 87, 53)
+}
+
+.titolo {
+    font-size: 34px;
+    font-weight: 900;
+}
+
+.lista_email {
+    font-size: 20px;
+    list-style: none;
+    font-style: oblique;
+}
+
+.lista_email li {
+    padding: 10px;
+}
+
+.load {
+    font-size: 28px;
+    font-weight: 500;
+}
+
